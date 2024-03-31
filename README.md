@@ -37,11 +37,3 @@ To maximize the effectiveness of this multi-threaded server, consider the follow
 ### Conclusion
 
 This multi-threaded server implementation combines the strengths of Assignment 2 and Assignment 3, offering a resilient solution for concurrent client interactions. The strategic use of file locks and the ability to handle multiple threads contribute to a robust and efficient server, ensuring a seamless experience for users.
-
-For any inquiries or further details, please refer to the documentation or contact the project maintainer.
-
-*Note: Ensure that all dependencies and prerequisites are met before deploying the server.*
-
----
-*Project Maintainer: [Your Name]  
-Contact: [Your Email]*
